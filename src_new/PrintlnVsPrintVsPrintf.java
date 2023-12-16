@@ -1,4 +1,4 @@
-package Data_type;
+package src_new;
 
 public class PrintlnVsPrintVsPrintf {
     public static void main(String[] args) {

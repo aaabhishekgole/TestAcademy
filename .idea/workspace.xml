@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1570283e-0805-4f5b-b8e8-e1bdab5c817b" name="Changes" comment="Primitive_data_type CLASS" />
+    <list default="true" id="1570283e-0805-4f5b-b8e8-e1bdab5c817b" name="Changes" comment="Primitive_data_type CLASS">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_type/Primitive_data_type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src_new/Primitive_data_type.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_type/PrintlnVsPrintVsPrintf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src_new/PrintlnVsPrintVsPrintf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Testing_academy_java/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Testing_academy_java/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,19 +40,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Testing Academy/TestAcADEMY&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Testing Academy/TestAcADEMY",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "fileTemplates"
   }
-}</component>
-  <component name="RunManager" selected="Application.PrintlnVsPrintVsPrintf">
+}]]></component>
+  <component name="RunManager" selected="Application.Lab017">
     <configuration name="Lab001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.Lab001" />
       <module name="Testing_academy_java" />
@@ -60,12 +66,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Primitive_data_type" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Data_type.Primitive_data_type" />
+    <configuration name="Lab017" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_02.Lab017" />
       <module name="Testing_academy_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Data_type.*" />
+          <option name="PATTERN" value="src.basics_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Primitive_data_type" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src_new.Primitive_data_type" />
+      <module name="Testing_academy_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src_new.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,11 +93,11 @@
       </method>
     </configuration>
     <configuration name="PrintlnVsPrintVsPrintf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Data_type.PrintlnVsPrintVsPrintf" />
+      <option name="MAIN_CLASS_NAME" value="src_new.PrintlnVsPrintVsPrintf" />
       <module name="Testing_academy_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Data_type.*" />
+          <option name="PATTERN" value="src_new.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,6 +107,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab017" />
         <item itemvalue="Application.PrintlnVsPrintVsPrintf" />
         <item itemvalue="Application.Primitive_data_type" />
         <item itemvalue="Application.Lab001" />

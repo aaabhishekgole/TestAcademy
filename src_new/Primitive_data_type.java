@@ -1,4 +1,4 @@
-package Data_type;
+package src_new;
 
 public class Primitive_data_type {
 
