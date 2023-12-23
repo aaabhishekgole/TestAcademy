@@ -5,27 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1570283e-0805-4f5b-b8e8-e1bdab5c817b" name="Changes" comment="Primitive_data_type CLASS">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/HW.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab001.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/Lab001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics_01/Lab001.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/basics_01/Lab001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics_01/Lab002.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/basics_01/Lab002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics_01/Lab003.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/basics_01/Lab003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics_02/Lab004.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/basics_02/Lab004.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics_02/Lab005.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/basics_02/Lab005.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics_02/Lab006.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/basics_02/Lab006.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics_02/Lab007.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/basics_02/Lab007.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics_02/Lab008.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/basics_02/Lab008.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics_02/Lab009.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/basics_02/Lab009.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics_02/Lab010.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/basics_02/Lab010.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics_02/Lab011.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/basics_02/Lab011.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics_02/Lab012.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/basics_02/Lab012.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics_02/Lab013.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/basics_02/Lab013.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics_02/Lab014.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/basics_02/Lab014.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics_02/Lab015.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/basics_02/Lab015.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics_02/Lab016.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/basics_02/Lab016.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics_02/Lab017.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/basics_02/Lab017.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -68,7 +49,7 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab017">
+  <component name="RunManager" selected="Application.Lab097">
     <configuration name="Lab001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestAcademy_code.Lab001" />
       <module name="Testing_academy_java" />
@@ -88,6 +69,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="TestAcademy_code.basics_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab097" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestAcademy_code.basics_05_23Dec.Lab097" />
+      <module name="Testing_academy_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestAcademy_code.basics_05_23Dec.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,6 +117,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab097" />
         <item itemvalue="Application.Lab017" />
         <item itemvalue="Application.PrintlnVsPrintVsPrintf" />
         <item itemvalue="Application.Primitive_data_type" />
@@ -163,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702703512179</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Primitive_data_type CLASS">
+      <option name="closed" value="true" />
+      <created>1703315670777</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703315670777</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
