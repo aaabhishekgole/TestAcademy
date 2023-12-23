@@ -1,4 +1,4 @@
-package src.basics_02;
+package TestAcademy_code.basics_02;
 
 public class Lab007 {
 

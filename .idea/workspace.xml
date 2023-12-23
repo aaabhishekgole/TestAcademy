@@ -7,9 +7,25 @@
     <list default="true" id="1570283e-0805-4f5b-b8e8-e1bdab5c817b" name="Changes" comment="Primitive_data_type CLASS">
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_type/Primitive_data_type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src_new/Primitive_data_type.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_type/PrintlnVsPrintVsPrintf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src_new/PrintlnVsPrintVsPrintf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Testing_academy_java/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Testing_academy_java/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/HW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab001.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/Lab001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics_01/Lab001.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/basics_01/Lab001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics_01/Lab002.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/basics_01/Lab002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics_01/Lab003.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/basics_01/Lab003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics_02/Lab004.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/basics_02/Lab004.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics_02/Lab005.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/basics_02/Lab005.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics_02/Lab006.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/basics_02/Lab006.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics_02/Lab007.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/basics_02/Lab007.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics_02/Lab008.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/basics_02/Lab008.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics_02/Lab009.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/basics_02/Lab009.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics_02/Lab010.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/basics_02/Lab010.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics_02/Lab011.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/basics_02/Lab011.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics_02/Lab012.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/basics_02/Lab012.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics_02/Lab013.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/basics_02/Lab013.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics_02/Lab014.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/basics_02/Lab014.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics_02/Lab015.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/basics_02/Lab015.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics_02/Lab016.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/basics_02/Lab016.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics_02/Lab017.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/basics_02/Lab017.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,20 +61,20 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Testing Academy/TestAcADEMY",
+    "last_opened_file_path": "D:/Testing Academy/git clone",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "fileTemplates"
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RunManager" selected="Application.Lab017">
     <configuration name="Lab001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Lab001" />
+      <option name="MAIN_CLASS_NAME" value="TestAcademy_code.Lab001" />
       <module name="Testing_academy_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.*" />
+          <option name="PATTERN" value="TestAcademy_code.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,11 +83,11 @@
       </method>
     </configuration>
     <configuration name="Lab017" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_02.Lab017" />
+      <option name="MAIN_CLASS_NAME" value="TestAcademy_code.basics_02.Lab017" />
       <module name="Testing_academy_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.basics_02.*" />
+          <option name="PATTERN" value="TestAcademy_code.basics_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702127009169</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Primitive_data_type CLASS">
+      <option name="closed" value="true" />
+      <created>1702703512179</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702703512179</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

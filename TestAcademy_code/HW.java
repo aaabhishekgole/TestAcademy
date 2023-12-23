@@ -1,4 +1,4 @@
-package src;
+package TestAcademy_code;
 
 public class HW {
     public static void main(String[] args) {

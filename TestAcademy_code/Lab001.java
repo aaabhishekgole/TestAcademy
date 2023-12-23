@@ -1,4 +1,4 @@
-package src;
+package TestAcademy_code;
 
 public class Lab001 {
 
