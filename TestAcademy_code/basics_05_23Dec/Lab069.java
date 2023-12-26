@@ -8,13 +8,13 @@ public class Lab069 {
         // Take a user input and print the information
 
         Scanner user_input = new Scanner(System.in);
-        System.out.println("Enter your Name");
+        System.out.println("Abhi");
         String name = user_input.next();
 
-        System.out.println("Enter your age");
+        System.out.println("32");
         int age = user_input.nextInt();
 
-        System.out.println("Enter your Salary");
+        System.out.println("22LPF");
         double salary = user_input.nextDouble();
 
         System.out.println("Your details are " + name);
