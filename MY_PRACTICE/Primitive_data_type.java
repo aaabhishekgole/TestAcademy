@@ -1,4 +1,4 @@
-package src_new;
+package MY_PRACTICE;
 
 public class Primitive_data_type {
 

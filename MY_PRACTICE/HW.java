@@ -1,4 +1,4 @@
-package TestAcademy_code;
+package MY_PRACTICE;
 
 public class HW {
     public static void main(String[] args) {
