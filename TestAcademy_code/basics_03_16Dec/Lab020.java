@@ -1,4 +1,4 @@
-package src.basics_03_16Dec;
+package TestAcademy_code.basics_03_16Dec;
 
 public class Lab020 {
     public static void main(String[] args) {
@@ -12,7 +12,7 @@ public class Lab020 {
 
         int a = 10;
         int b = 10;
-        boolean c = (a >= b); //OR
+        boolean c = (a <= b); //OR
 
         // Reference  int - value, string - ref
         System.out.println(c);

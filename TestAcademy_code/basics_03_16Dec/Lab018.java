@@ -15,5 +15,6 @@ public class Lab018 {
 
         // All the + below are concatenation
         System.out.println(name+a+b);
+        System.out.println(a+b+name+b+a);
     }
 }
