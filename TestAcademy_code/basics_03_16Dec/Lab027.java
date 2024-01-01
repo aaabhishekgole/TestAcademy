@@ -1,4 +1,4 @@
-package src.basics_03_16Dec;
+package TestAcademy_code.basics_03_16Dec;
 
 public class Lab027 {
     public static void main(String[] args) {
@@ -6,7 +6,7 @@ public class Lab027 {
         // Casting - Mold
        //  Widening is the process of converting lower type to higher type. This is safe conversion.
 
-        byte b = 10;
+        byte b = 11;
 //        int a =  b; // Implicit Casting - JVM
         int a = (int) b; // Explicit Casting - JVM
 
