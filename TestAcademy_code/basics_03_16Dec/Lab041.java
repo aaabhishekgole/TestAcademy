@@ -1,4 +1,4 @@
-package src.basics_03_16Dec;
+package TestAcademy_code.basics_03_16Dec;
 
 public class Lab041 {
     public static void main(String[] args) {
@@ -6,7 +6,7 @@ public class Lab041 {
 
         // Increment operator.
         int a = 10;
-        System.out.println(++a + a++ + a++);
+        System.out.println(++a + ++a  +a++ + a++ );
         System.out.println(a);
 
         // Part - A ( Exp = 11, a = 11  ) -> ++a -> O/P -> 11

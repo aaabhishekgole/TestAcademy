@@ -1,4 +1,4 @@
-package src.basics_03_16Dec;
+package TestAcademy_code.basics_03_16Dec;
 
 import java.util.Scanner;
 
@@ -13,7 +13,7 @@ public class Lab049 {
         int a = sc.nextInt();
         int b = sc.nextInt();
 
-        if (a > b) {
+        if (a < b) {
             System.out.println("Max is " + a);
         } else {
             System.out.println("Max is " + b);

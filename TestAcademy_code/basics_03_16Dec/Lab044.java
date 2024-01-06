@@ -7,7 +7,7 @@ public class Lab044 {
         // Decrement operator.
 
         int b = 10;
-        System.out.println(--b + b++ + ++b);
+        System.out.println(--b + b++ + ++b +--b ) ;
         System.out.println(b);
 
         // A -> --b , Exp ->9 , b ->9
