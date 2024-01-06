@@ -1,4 +1,4 @@
-package src.basics_03_16Dec;
+package TestAcademy_code.basics_03_16Dec;
 
 public class Lab032 {
     public static void main(String[] args) {
@@ -9,7 +9,7 @@ public class Lab032 {
         System.out.println(name.toLowerCase());
 
         String name1 = new String("The Testing Academy"); //OA? HEAP Area
-
+        System.out.println(new String("The Testing Academy"));
 
     }
 }

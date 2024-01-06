@@ -1,4 +1,4 @@
-package src.basics_03_16Dec;
+package TestAcademy_code.basics_03_16Dec;
 
 public class Lab031 {
     public static void main(String[] args) {
@@ -6,7 +6,7 @@ public class Lab031 {
         int a=b; // VALID – Implicit Casting
         int a1= (int)b; // VALID – Explicit Casting
 
-
-
+        System.out.println(a);
+        System.out.println(a1);
     }
 }

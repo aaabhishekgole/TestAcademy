@@ -1,4 +1,4 @@
-package src.basics_03_16Dec;
+package TestAcademy_code.basics_03_16Dec;
 
 public class Lab037 {
     public static void main(String[] args) {
@@ -17,6 +17,12 @@ public class Lab037 {
         System.out.println(max);
         System.out.println(min);
 
+        int c = 40;
+        int d = 50;
+        int max1 = c > d ? d :c;
+        int min2 = c > d ? c : d;
+        System.out.println(max1);
+        System.out.println(min2);
 
 
 
