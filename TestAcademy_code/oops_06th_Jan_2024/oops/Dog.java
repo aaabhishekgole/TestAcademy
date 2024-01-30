@@ -1,4 +1,4 @@
-package src.oops_06_Jan_2024.oops;
+package TestAcademy_code.oops_06th_Jan_2024.oops;
 
 public class Dog {
 

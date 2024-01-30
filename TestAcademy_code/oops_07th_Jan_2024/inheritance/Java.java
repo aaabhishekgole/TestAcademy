@@ -1,4 +1,4 @@
-package src.oops_07th_Jan_2024.inheritance;
+package TestAcademy_code.oops_07th_Jan_2024.inheritance;
 
 public class Java extends Programming {
     String newFeature;
