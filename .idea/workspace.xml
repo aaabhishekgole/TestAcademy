@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1570283e-0805-4f5b-b8e8-e1bdab5c817b" name="Changes" comment="30-12-2023 practice 1">
+    <list default="true" id="1570283e-0805-4f5b-b8e8-e1bdab5c817b" name="Changes" comment="5 and 6 jan  code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestAcademy_code/basics_04_17Dec/Lab050.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestAcademy_code/basics_04_17Dec/Lab050.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Testing_academy_java/src/basics_03_16Dec/Lab039.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Testing_academy_java/src/basics_03_16Dec/Lab041.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Testing_academy_java/src/basics_03_16Dec/Lab042.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Testing_academy_java/src/basics_03_16Dec/Lab043.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Testing_academy_java/src/basics_03_16Dec/Lab044.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Testing_academy_java/src/basics_03_16Dec/Lab044.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Testing_academy_java/src/basics_03_16Dec/Lab046.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Testing_academy_java/src/basics_03_16Dec/Lab048.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Testing_academy_java/src/basics_03_16Dec/Lab049.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,7 +222,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704555255724</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="5 and 6 jan  code">
+      <option name="closed" value="true" />
+      <created>1704638038492</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1704638038492</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -242,6 +241,7 @@
     <MESSAGE value="30-12-2023" />
     <MESSAGE value="30-12-2023 practice" />
     <MESSAGE value="30-12-2023 practice 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="30-12-2023 practice 1" />
+    <MESSAGE value="5 and 6 jan  code" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 and 6 jan  code" />
   </component>
 </project>
