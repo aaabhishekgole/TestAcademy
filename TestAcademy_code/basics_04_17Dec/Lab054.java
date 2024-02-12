@@ -1,4 +1,4 @@
-package src.basic_04_17Dec;
+package TestAcademy_code.basics_04_17Dec;
 
 public class Lab054 {
     public static void main(String[] args) {
@@ -7,7 +7,7 @@ public class Lab054 {
             System.out.println("1");
             if(true){
                 System.out.println("2");
-                if(true){
+                if(false){
                     System.out.println("3");
                 }
             }

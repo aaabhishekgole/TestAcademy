@@ -1,4 +1,4 @@
-package src.basic_04_17Dec;
+package TestAcademy_code.basics_04_17Dec;
 
 import java.util.Scanner;
 
@@ -22,7 +22,7 @@ public class Lab051 {
         // DAA- Ask for the confirmation of the doubts
 
 
-        // 2. Basic login or Brute force Logic write basic rough code
+        // 2. Basic login or Brute force Logic wr65ite basic rough code
         // if score >= 90 && score  <=100 -> print A
         // else if score >= 80 && score  89 <= 100 -> print B
 

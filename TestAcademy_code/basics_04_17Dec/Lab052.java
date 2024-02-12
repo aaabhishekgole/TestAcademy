@@ -2,7 +2,7 @@ package src.basic_04_17Dec;
 
 import java.util.Scanner;
 
-public class Lab052 {
+public class    Lab052 {
     public static void main(String[] args) {
 
         // ✅ Grade Calculator:

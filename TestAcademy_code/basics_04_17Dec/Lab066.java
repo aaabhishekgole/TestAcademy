@@ -1,4 +1,4 @@
-package src.basic_04_17Dec;
+package TestAcademy_code.basics_04_17Dec;
 
 public class Lab066 {
     public static void main(String[] args) {

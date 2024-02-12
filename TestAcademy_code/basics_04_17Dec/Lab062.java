@@ -1,10 +1,10 @@
-package src.basic_04_17Dec;
+package TestAcademy_code.basics_04_17Dec;
 
 public class Lab062 {
     public static void main(String[] args) {
 
         // JDK 13
-        int itemCode = 002;
+        int itemCode = 003;
         switch (itemCode) {
             case 001, 002, 003 :
                 System.out.println("It's an electronic gadget!");

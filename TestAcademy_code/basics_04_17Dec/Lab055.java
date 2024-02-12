@@ -1,4 +1,4 @@
-package src.basic_04_17Dec;
+package TestAcademy_code.basics_04_17Dec;
 
 import java.util.Scanner;
 
